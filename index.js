@@ -46,7 +46,7 @@ const bookStore = {
 // Write your code here!
 const bookStoreTitle = document.querySelector("#header");
 
-bookStoreTitle.textContent = "Flatbooks";
+bookStoreTitle.textContent = "Flatbooks Technical Books";
 
 const bookList = document.querySelector("#book-list");
 
